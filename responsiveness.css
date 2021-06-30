@@ -15,7 +15,7 @@
         display: inline;
     }
     body > footer{
-        overflow: auto;
+        overflow: hidden;
     }
 
     
@@ -29,8 +29,7 @@
         justify-content: center;
     }
     body > header{
-        background-color:rgba(101, 193, 190, 0);
-    }
+        background-color: #3c1c7b !important;    }
     footer{
         overflow: hidden;
     }
@@ -75,7 +74,7 @@
         margin-left: 260px;
     }
     body > footer{
-        overflow: auto;
+        overflow: hidden;
     }
     .first_row_cards, .first_row_cards_2{
         flex-wrap: wrap;
